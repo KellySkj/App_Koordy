@@ -135,6 +135,7 @@ presence TEXT
         cursor.close()
 
         return list
+
     }
 
 
