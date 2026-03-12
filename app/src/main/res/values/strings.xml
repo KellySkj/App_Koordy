@@ -7,7 +7,12 @@
     <string name="toolbar_login">Se connecter</string>
     <string name="toolbar_signup">S\'inscrire</string>
 
-    <string name="announcement_text">Réduction de Noël : -10% sur Koordy+. Offre valable jusqu\'au 31 déc.</string>
+    <string name="menu_fonctionnalites">Fonctionnalités</string>
+    <string name="menu_koordy_plus">Koordy+</string>
+    <string name="menu_connexion">Connexion</string>
+    <string name="menu_inscrire_asso">Inscrire mon asso</string>
+
+    <string name="announcement_text">Offre de printemps : -10% sur Koordy+. Offre valable jusqu\'au 31 mai</string>
 
     <string name="hero_subtitle">MOINS DE GESTION</string>
     <string name="hero_title">Plus d\'action !</string>
