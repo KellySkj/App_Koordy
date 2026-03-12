@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Koordy</string>
+    <string name="toolbar_logo_desc">Logo Koordy - Accueil</string>
+    <string name="toolbar_accueil">Accueil</string>
+    <string name="toolbar_temoignages">Témoignages</string>
+    <string name="toolbar_koordy_plus">Koordy+</string>
+    <string name="toolbar_login">Se connecter</string>
+    <string name="toolbar_signup">S\'inscrire</string>
+
+    <string name="announcement_text">Réduction de Noël : -10% sur Koordy+. Offre valable jusqu\'au 31 déc.</string>
+
+    <string name="hero_subtitle">MOINS DE GESTION</string>
+    <string name="hero_title">Plus d\'action !</string>
+    <string name="hero_description">Koordy vous propose une solution complète prête à l\'emploi pour gérer votre association en toute simplicité.</string>
+    <string name="hero_button">J\'inscris mon Asso !</string>
+
+    <string name="stat_asso_label">Déjà</string>
+    <string name="stat_asso_value">20</string>
+    <string name="stat_asso_desc">Asso nous font confiance</string>
+
+    <string name="stat_members_label">Plus de</string>
+    <string name="stat_members_value">300</string>
+    <string name="stat_members_desc">Membres</string>
+
+    <string name="stat_solution_label">Une solution</string>
+    <string name="stat_solution_value">100%</string>
+    <string name="stat_solution_desc">Gratuite</string>
+
+    <string name="feature_create_title">Créez votre association</string>
+    <string name="feature_create_desc">Lancez votre espace dédié en quelques minutes et centralisez vos activités.</string>
+
+    <string name="feature_members_title">Gérez vos membres</string>
+    <string name="feature_members_desc">Invitez, attribuez des rôles et gardez une vision claire de votre communauté.</string>
+
+    <string name="feature_events_title">Managez vos événements</string>
+    <string name="feature_events_desc">Participants, rôles et disponibilités : tout est fluide, tout est Koordy.</string>
+</resources>
