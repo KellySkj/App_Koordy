@@ -1,0 +1,5 @@
+Règle de logique globales:
+logique des rôles
+logique d’autorisation
+gestion d’invitation
+“qui a le droit de faire quoi”

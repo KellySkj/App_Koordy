@@ -1,0 +1,16 @@
+Ce dossier sert à centraliser les requêtes liées aux entités métier.
+Dedans, on met surtout :
+
+les requêtes SQL
+
+les fonctions d’accès aux données
+
+Exemple :
+
+chercher un membre par email
+
+récupérer les événements d’une association
+
+insérer un événement
+
+Le but est d’éviter d’écrire du SQL partout dans les controllers.

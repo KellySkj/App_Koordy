@@ -1,0 +1,13 @@
+Ce sont des fonctions qui s’exécutent entre la requête et le controller.
+
+Ça sert à :
+vérifier qu’un utilisateur est connecté
+vérifier qu’il a le bon rôle
+valider des données
+bloquer l’accès si besoin
+Exemples :
+authMiddleware
+verifyRole
+validateRequest
+
+Très utile pour éviter de répéter les mêmes vérifications dans plusieurs controllers.
