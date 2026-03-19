@@ -1,18 +1,24 @@
 package com.example.koordy
 
+import android.content.Intent
 import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
-import androidx.appcompat.app.AppCompatActivity
+import android.widget.Button
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : BaseActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        enableEdgeToEdge()
         setContentView(R.layout.home_page)
 
-        val dbHelper = DatabaseHelper(this)
-        val db = dbHelper.writableDatabase
+        // Configuration de la toolbar via BaseActivity
+        setupToolbar()
 
+        // Configuration du bouton d'inscription principal (Hero)
+        val heroCtaBtn = findViewById<Button>(R.id.hero_cta)
+        heroCtaBtn?.setOnClickListener {
+            val intent = Intent(this, SignupActivity::class.java)
+            intent.putExtra("EXTRA_MESSAGE", "Créez votre compte pour inscrire votre association")
+            startActivity(intent)
+        }
     }
 }
