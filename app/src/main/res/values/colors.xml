@@ -11,5 +11,13 @@
     <color name="card_bg">#FFFFFF</color>
     <color name="text_main">#1A1A1A</color>
     <color name="text_secondary">#666666</color>
+
+    <!-- Dark Theme Colors from HTML -->
+    <color name="dark_bg">#05060A</color>
+    <color name="dark_panel">#111319</color>
+    <color name="dark_elev">#171A21</color>
+    <color name="dark_text">#E6E7EB</color>
+    <color name="dark_muted">#9AA3B2</color>
+    <color name="dark_line">#232736</color>
     <color name="text_tertiary">#999999</color>
 </resources>
