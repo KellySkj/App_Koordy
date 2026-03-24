@@ -2,7 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="primaryBlue">#0091FF</color>
+    <color name="primaryBlue">#6CF</color>
     <color name="lightBlue">#E3F2FD</color>
     <color name="announcement_bg">#1A1A1A</color>
     <color name="toolbar_bg">#FFFFFF</color>
@@ -11,4 +11,5 @@
     <color name="card_bg">#FFFFFF</color>
     <color name="text_main">#1A1A1A</color>
     <color name="text_secondary">#666666</color>
+    <color name="text_tertiary">#999999</color>
 </resources>
