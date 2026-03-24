@@ -154,7 +154,7 @@ class DatabaseHelper(context: Context) :
         values.put("pays", pays)
         values.put("description", desc)
         values.put("date_creation", date)
-        
+
         val id = db.insert("association", null, values)
         db.close()
         return id
